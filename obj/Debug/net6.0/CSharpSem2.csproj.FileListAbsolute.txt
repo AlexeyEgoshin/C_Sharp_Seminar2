@@ -1,0 +1,15 @@
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\bin\Debug\net6.0\CSharpSem2.exe
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\bin\Debug\net6.0\CSharpSem2.deps.json
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\bin\Debug\net6.0\CSharpSem2.runtimeconfig.json
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\bin\Debug\net6.0\CSharpSem2.dll
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\bin\Debug\net6.0\CSharpSem2.pdb
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.csproj.AssemblyReference.cache
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.AssemblyInfoInputs.cache
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.AssemblyInfo.cs
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.csproj.CoreCompileInputs.cache
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.dll
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\refint\CSharpSem2.dll
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.pdb
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\CSharpSem2.genruntimeconfig.cache
+C:\Users\a0210\OneDrive\Рабочий стол\CSharpSem2\obj\Debug\net6.0\ref\CSharpSem2.dll
